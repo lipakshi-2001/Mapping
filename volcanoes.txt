@@ -1,0 +1,8 @@
+NAME,ELEVATION,LAT,LON,STATE,LAST-ERUPTION,TYPE
+Barren Island,1161,12.278,93.858,Andaman Islands,2017,Stratovolcano-Active
+Narcondam,2329,13.43,94.28,Andaman Islands,560 kyrs BP,Stratovolcano-Active
+Deccan Traps,-,18.51,73.43,Maharashtra,66mya,Active
+Baratang,-,12.07,92.47,Andaman Islands,Active since 2003,Mud Volcano
+Dhinodhar Hills,1266.4,23.45,69.34,Gujarat,Inactive Volcano,Extinct
+Dhosi Hill,2427,28.06,76.03,Haryana,732 MaBP,Extinct
+Tosham Hills,679,28.88,75.92,Haryana,732 MaBP,Extinct
